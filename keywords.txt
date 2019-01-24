@@ -1,0 +1,85 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TimerOne	KEYWORD1
+SoftI2CMaster	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+AIStarter_SmartBotInit	KEYWORD2
+AIStarter_SmartBotSetMovment	KEYWORD2
+AIStarter_SmartBotSetMovmentTime	KEYWORD2
+AIStarter_SmartBotSetMotor	KEYWORD2
+AIStarter_SmartBotSetMotorPI	KEYWORD2
+AIStarter_SmartBotGetMotorPose	KEYWORD2
+AIStarter_SmartBotSetSonar	KEYWORD2
+AIStarter_SmartBotGetSonar	KEYWORD2
+AIStarter_SmartBotGetBarrier	KEYWORD2
+AIStarter_SmartBotGetIRModuleValue	KEYWORD2
+AIStarter_SmartBotGetCompass	KEYWORD2
+AIStarter_SmartBotSetCompassCalibration	KEYWORD2
+AIStarter_SmartBotSetColorWB	KEYWORD2
+AIStarter_SmartBotSetColorSenor	KEYWORD2
+AIStarter_SmartBotGetColorSenor	KEYWORD2
+AIStarter_SmartBotDetColorSenor	KEYWORD2
+AIStarter_SmartBotSetKeyInit	KEYWORD2
+AIStarter_SmartBotGetKeyValue	KEYWORD2
+AIStarter_SmartBotGetLightAnalog	KEYWORD2
+AIStarter_SmartBotSetLED	KEYWORD2
+AIStarter_SmartBotSetSonarThreshold	KEYWORD2
+AIStarter_SmartBotServoattach	KEYWORD2
+AIStarter_SmartBotServoWrite	KEYWORD2
+AIStarter_SmartBotServodetach	KEYWORD2
+AIStarter_SmartBotTimerTaskAttach	KEYWORD2
+AIStarter_SmartBotTimerTaskDetach	KEYWORD2
+AIStarter_SmartBotXbeeRead	KEYWORD2
+AIStarter_SmartBotXbeeWrite	KEYWORD2
+AIStarter_SmartBotXbeeCompare	KEYWORD2
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+PIParams	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PINSW1	LITERAL1
+PINSW2	LITERAL1
+PINSW3	LITERAL1
+LED1	LITERAL1
+LED2	LITERAL1
+SW1	LITERAL1
+SW2	LITERAL1
+SW3	LITERAL1
+FRONT	LITERAL1
+BACK	LITERAL1
+RIGHT	LITERAL1
+LEFT	LITERAL1
+MOTORR	LITERAL1
+MOTORL	LITERAL1
+POWER	LITERAL1
+SPEED	LITERAL1
+ON	LITERAL1
+OFF	LITERAL1
+BLINK	LITERAL1
+IR1	LITERAL1
+IR2	LITERAL1
+IR3	LITERAL1
+IR4	LITERAL1
+IR5	LITERAL1
+IR6	LITERAL1
+COLORSENOR1	LITERAL1
+COLORSENOR2	LITERAL1
+RCOLOR	LITERAL1
+GCOLOR	LITERAL1
+BCOLOR	LITERAL1
+IDLECOLOR	LITERAL1
+SONAR1	LITERAL1
+SONAR2	LITERAL1
+SONAR3	LITERAL1
