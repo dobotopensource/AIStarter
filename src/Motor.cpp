@@ -1,4 +1,4 @@
-#include "arduino.h"
+#include "Arduino.h"
 #include "Motor.h"
 
 volatile float gCounterR = 0;

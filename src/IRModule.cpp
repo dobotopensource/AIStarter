@@ -1,5 +1,5 @@
 #include "IRModule.h"
-#include "arduino.h"
+#include "Arduino.h"
 
 int IRInit()
 {

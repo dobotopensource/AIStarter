@@ -18,11 +18,11 @@
 #ifndef __SMARTBOT_H
 #define __SMARTBOT_H
 
-#include "arduino.h"
+#include "Arduino.h"
 #include "Beep.h"
 #include "HC-SR04.h"
 #include "IRModule.h"
-#include "MMC5883L.H"
+#include "MMC5883L.h"
 #include "Motor.h"
 #include "TCS3200.h"
 #include "TimerOne.h"

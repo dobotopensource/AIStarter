@@ -9,7 +9,7 @@
 ** Latest Version:        V1.0.0
 ** Descriptions:          Ai-Starter Demo
 *********************************************************************************************************/
-#include "AISTARTER.h"
+#include "AIStarter.h"
 #define  Threshold 15             //设置颜色阈值
 #define  IR_NUM    6              //设置红外对管数量
 #define  DBG_EN    0              
