@@ -2,7 +2,7 @@
 #define __E2PROM_H
 
 #include <EEPROM.h>
-#include "arduino.h"
+#include "Arduino.h"
 
 typedef enum
 {

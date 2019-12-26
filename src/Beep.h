@@ -1,7 +1,7 @@
 #ifndef __BEEP_H
 #define __BEEP_H
 
-#include "arduino.h"
+#include "Arduino.h"
 
 #define BEEP 11 //PB5
 

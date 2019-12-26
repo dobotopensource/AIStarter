@@ -1,5 +1,5 @@
 #include "TCS3200.h"
-#include "arduino.h"
+#include "Arduino.h"
 #include "TimerOne.h"
 #include "stdio.h"
 #include "SoftI2CMaster.h"

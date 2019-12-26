@@ -1,5 +1,5 @@
 
-#include "MMC5883L.H"
+#include "MMC5883L.h"
 
 #define YAW_AXIS_IS_X 0
 #define YAW_AXIS_IS_Y 0

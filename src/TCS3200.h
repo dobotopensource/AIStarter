@@ -1,7 +1,7 @@
 #ifndef __TSC3200_H
 #define __TSC3200_H
 
-#include "arduino.h"
+#include "Arduino.h"
 #include "E2PROM.h"
 #define WBBASIC 200
 

@@ -1,5 +1,5 @@
-#include "HC-SR04.H"
-#include "arduino.h"
+#include "HC-SR04.h"
+#include "Arduino.h"
 #define SONARDEBUG false
 
 int gSonarTime = 3000;

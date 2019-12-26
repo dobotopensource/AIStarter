@@ -1,7 +1,7 @@
 #ifndef __MMC5883L_H
 #define __MMC5883L_H
 
-#include "arduino.h"
+#include "Arduino.h"
 #include "SoftI2CMaster.h"
 #include "E2PROM.h"
 
